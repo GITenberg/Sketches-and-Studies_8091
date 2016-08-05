@@ -1,0 +1,29 @@
+_repo: Sketches-and-Studies_8091
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+- !lcsh 'American literature'
+- !lcsh 'Pierce, Franklin, 1804-1869'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Life of Franklin Pierce -- Chiefly about war matters -- Alice Doane's
+  appeal -- The ancestral footstep.
+title: Sketches and Studies
+url: http://www.gutenberg.org/ebooks/8091
